@@ -1,5 +1,11 @@
 # gitignore files from francis-web-solutions
 
+# folders
+.vs
+.vscode
+
+
+# files
 .htaccess
 robots.txt
 sitemap.xml
