@@ -8,5 +8,5 @@ Using Bootstrap as the framework. This time keeping in with todays trend, a one-
 
 
 <p align="center">
-  <img src="http://www.fillmurray.com/460/300">
+  <img src="/assets/images/francis-web-solutions-frontpage.jpg">
 </p>
